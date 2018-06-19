@@ -1,4 +1,4 @@
-package br.com.javatestbpixel.javatestbpixel;
+package br.com.javatestbpixel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
